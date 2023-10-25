@@ -1,0 +1,1 @@
+I used microsoft edge and my mini6.html and mini6.php are in the same directory.
